@@ -1,0 +1,31 @@
+
+.imageHeight{
+  height: 200px;
+}
+.heading{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+
+.scroll{
+  overflow-x: hidden;
+}
+.data:hover{
+  transform: scale(1.09);
+  transition-duration: 5ms;
+  
+}
+.buttondata:hover{
+  transform: scale(1.02);
+  font-size: larger;
+
+  transition-duration: 5ms;
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
