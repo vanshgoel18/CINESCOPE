@@ -1,4 +1,5 @@
 About Us:
+
 CineScope is a comprehensive platform designed for movie enthusiasts to rate, review, and discuss their favorite films. Whether you're a casual viewer or a cinephile, CineScope offers a community-driven environment to share your opinions and discover new cinematic experiences.
 
 Features:
@@ -33,6 +34,7 @@ Access exclusive content and interviews.
 
 
 Why CineScope?
+
 Community-Driven: CineScope thrives on user-generated content, making it a dynamic and authentic platform for movie lovers.
 Comprehensive Database: With a vast collection of movies, from classics to the latest releases, there's something for everyone.
 User-Friendly Interface: Designed with ease of use in mind, navigating through CineScope is a seamless experience.
